@@ -1,0 +1,1 @@
+{"uuid":"9e049681-1686-4bfc-b66e-73fd111efa31","name":"qaautomation.may2022.BaseSignUp.tearDown","description":"","start":1653839329858,"stop":1653839329966,"children":["9440dc57-bfc7-4a50-82a2-8449322f01ba"],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","start":1653839329858,"stop":1653839329966}]}

@@ -1,0 +1,1 @@
+{"uuid":"9d436bfd-6a33-40ab-bed6-4d7b9d727b4c","name":"qaautomation.may2022.BaseSignUp.setUp","description":"","start":1653839259079,"stop":1653839262621,"children":["9440dc57-bfc7-4a50-82a2-8449322f01ba"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1653839259079,"stop":1653839262621}]}

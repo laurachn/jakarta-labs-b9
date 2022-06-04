@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="methods" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="2" parallel="methods" name="Test(failed)">
+    <classes>
+      <class name="qaautomation.may2022.SauceDemoTest">
+        <methods>
+          <include name="finishCheckout"/>
+          <include name="tearDown"/>
+          <include name="loginWithValidUsernameAndValidPassword"/>
+          <include name="checkoutCart"/>
+          <include name="fillInCheckOutInformation"/>
+          <include name="setUp"/>
+          <include name="viewCart"/>
+          <include name="addToCart"/>
+        </methods>
+      </class> <!-- qaautomation.may2022.SauceDemoTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
