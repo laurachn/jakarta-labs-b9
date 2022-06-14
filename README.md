@@ -1,14 +1,10 @@
-# automatic-repository
+# QA Automation assignment
 
-Foobar is a Python library for dealing with word pluralization.
+Hello my name is Laura Chen. This is my assignment repository while I'm participating in QA Automation Bootcamp in Jakarta Labs.
 
-## Installation
+## Assignment 1 (Basic Java)
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
-```bash
-pip install foobar
-```
 
 ## Usage
 
