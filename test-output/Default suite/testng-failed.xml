@@ -3,13 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="qaautomation.may2022.SignUp">
+      <class name="qaautomation.may2022.APITest">
         <methods>
-          <include name="tearDown"/>
-          <include name="setUp"/>
-          <include name="signUpWithPhoneNumber"/>
+          <include name="register"/>
         </methods>
-      </class> <!-- qaautomation.may2022.SignUp -->
+      </class> <!-- qaautomation.may2022.APITest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
