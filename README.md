@@ -32,4 +32,4 @@ Hello my name is Laura Chen. This is my assignment repository while I'm particip
 ## Assignment 6 (JMeter)
 
 * Create load testing, graphql load testing, database load testing, weighted load testing
-* Assignment path ``` ```
+* Assignment path ``` Load Test.jmx ```
